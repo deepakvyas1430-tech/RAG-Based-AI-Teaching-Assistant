@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+pandas
+numpy
+requests
+joblib
+scikit-learn
+faster-whisper
